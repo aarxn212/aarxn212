@@ -41,8 +41,6 @@ https://aarxn212.github.io/aarxn-web-principal/
 
 ### Estadisticas de mi perfil !
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=aarxn212&show_icons=true&theme=tokyonight&hide=["issues"])
-
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=aarxn212&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
